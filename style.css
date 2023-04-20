@@ -5,10 +5,13 @@
   font-family: "Lato", sans-serif;
 }
 
-.header {
+.container {
   width: 500px;
   margin: 0 auto;
   display: block;
+}
+
+.header {
   text-align: right;
 }
 
@@ -26,12 +29,6 @@
     text-align: center;
   }
 
-}
-
-.main__container {
-  display: block;
-  width: 500px;
-  margin: 0 auto 0;
 }
 
 .task {
