@@ -11,6 +11,10 @@
   display: block;
 }
 
+.add-task__title {
+    display: none;
+}
+
 .header {
   text-align: right;
 }
