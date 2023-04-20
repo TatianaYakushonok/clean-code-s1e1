@@ -81,7 +81,7 @@ button{
   text-transform: uppercase;
 }
 
-.task {
+.task-message {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -94,7 +94,7 @@ button{
   color: #888;
 }
 
-.task:focus {
+.task-message:focus {
   color: #333;
 }
 
